@@ -20,10 +20,10 @@
 
 - 👓 **Veri Bilimi** alanında çalışıyorum!
 - 🌱 Şu anda profesyonel deneyimimde **C#** öğreniyorum.
-- 📈 **Yapay zeka** ile **borsa analizi** geliştiriyorum.
-- 🔭 **Zaman serileri** özel ilgi alanım!
-- 👯 **Python projelerinde** iş birliği yapmayı düşünüyorum.
-- 💡 **Veri Mühendisliği** ve **Makine Öğrenmesi** ile ilgileniyorum.
+- 📈 **Yapay Zeka** ile **borsa analizi** geliştiriyorum.
+- 🔭 **Zaman Serileri** özel ilgi alanım!
+- 👯 **Python projelerinde** iş birliği yapabiliriz!
+- 💡 **Veri Mühendisliği** ve **Derin Öğrenme** alanlarında ilerliyorum.
 - 🔧 **3D yazıcıları** seviyorum.
 
 <br><br><br><br>
