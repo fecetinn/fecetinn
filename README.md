@@ -25,7 +25,6 @@
 - 👯 **Python projelerinde** iş birliği yapmayı düşünüyorum.
 - 💡 **Veri Mühendisliği** ve **Makine Öğrenmesi** ile ilgileniyorum.
 - 🔧 **3D yazıcıları** seviyorum.
-- 🎧 Dinlediklerimi dinlemek istersen: 
 
 <br><br><br><br>
 
@@ -80,11 +79,15 @@
 </p>
 
 ## 📫 Bana Ulaşın
-
-[<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="25" />](https://www.linkedin.com/in/fatih-eren-%C3%A7etin-3b347a1b4/)
+[<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="25" />](www.linkedin.com/in/fatih-eren-cetin)
 &nbsp;
 [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" height="25" />](https://medium.com/@fecetinn)
 &nbsp;
+[<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" height="25" />](https://www.kaggle.com/fatiherencetin)
+&nbsp;
+
+## 🎧 Müzik
+[<img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" height="25" />](https://open.spotify.com/user/31ymupalllh6riuv5pca5cewnndi?si=95ce36b9a9f34276)
 
 ## 📊 GitHub İstatistikleri
 
