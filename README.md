@@ -28,10 +28,11 @@
 
 <br><br><br><br>
 
-<!--
+
 ## 🚀 My Projects
 
-- [**Project Name 1**](https://github.com/fecetinn/project-1): Short description about the project.
+- [**Customer Churn**](https://github.com/fecetinn/Telcom_Customer_Churn): Customer churn prediction is a critical aspect for businesses aiming to retain their customer base and enhance profitability. This project leverages machine learning techniques to predict whether a customer is likely to churn, enabling proactive retention strategies. By analyzing customer behavior and transactional data, the models identify patterns that indicate the likelihood of churn, providing valuable insights for decision-making.
+<!--  
 - [**Project Name 2**](https://github.com/fecetinn/project-2): Short description about the project.
 - [**Project Name 3**](https://github.com/fecetinn/project-3): Short description about the project.
 -->
