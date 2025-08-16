@@ -35,7 +35,7 @@
 
 - [**CLTV Prediction**](https://github.com/fecetinn/CLTV-Prediction-with-BN-BGD-and-Gamma-Gamma):This comprehensive data science project implements advanced probabilistic models to predict Customer Lifetime Value (CLTV) using the powerful combination of BG-NBD (Beta Geometric/Negative Binomial Distribution) and Gamma-Gamma statistical models.
 
-- [**CLTV Prediction**](https://github.com/fecetinn/RFM-CLTV-Analysis-Online-Retail):This project implements an advanced customer analytics pipeline that combines traditional RFM (Recency, Frequency, Monetary) segmentation with sophisticated probabilistic models (BG-NBD and Gamma-Gamma) to predict Customer Lifetime Value (CLTV). The framework provides actionable insights for customer segmentation, retention strategies, and marketing resource allocation through comprehensive analysis and visualization tools.
+- [**RFM & CLTV Prediction**](https://github.com/fecetinn/RFM-CLTV-Analysis-Online-Retail):This project implements an advanced customer analytics pipeline that combines traditional RFM (Recency, Frequency, Monetary) segmentation with sophisticated probabilistic models (BG-NBD and Gamma-Gamma) to predict Customer Lifetime Value (CLTV). The framework provides actionable insights for customer segmentation, retention strategies, and marketing resource allocation through comprehensive analysis and visualization tools.
 
 <!--  
 - [**Project Name 2**](https://github.com/fecetinn/project-2): Short description about the project.
