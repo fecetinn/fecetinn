@@ -33,9 +33,9 @@
 
 - [**Customer Churn**](https://github.com/fecetinn/Telcom_Customer_Churn): Customer churn prediction is a critical aspect for businesses aiming to retain their customer base and enhance profitability. This project leverages machine learning techniques to predict whether a customer is likely to churn, enabling proactive retention strategies. By analyzing customer behavior and transactional data, the models identify patterns that indicate the likelihood of churn, providing valuable insights for decision-making.
 
-- [**CLTV Prediction**](https://github.com/fecetinn/CLTV-Prediction-with-BN-BGD-and-Gamma-Gamma):This comprehensive data science project implements advanced probabilistic models to predict Customer Lifetime Value (CLTV) using the powerful combination of BG-NBD (Beta Geometric/Negative Binomial Distribution) and Gamma-Gamma statistical models.
+- [**CLTV Prediction**](https://github.com/fecetinn/CLTV-Prediction-with-BN-BGD-and-Gamma-Gamma): This comprehensive data science project implements advanced probabilistic models to predict Customer Lifetime Value (CLTV) using the powerful combination of BG-NBD (Beta Geometric/Negative Binomial Distribution) and Gamma-Gamma statistical models.
 
-- [**RFM & CLTV Prediction**](https://github.com/fecetinn/RFM-CLTV-Analysis-Online-Retail):This project implements an advanced customer analytics pipeline that combines traditional RFM (Recency, Frequency, Monetary) segmentation with sophisticated probabilistic models (BG-NBD and Gamma-Gamma) to predict Customer Lifetime Value (CLTV). The framework provides actionable insights for customer segmentation, retention strategies, and marketing resource allocation through comprehensive analysis and visualization tools.
+- [**RFM & CLTV Prediction**](https://github.com/fecetinn/RFM-CLTV-Analysis-Online-Retail): This project implements an advanced customer analytics pipeline that combines traditional RFM (Recency, Frequency, Monetary) segmentation with sophisticated probabilistic models (BG-NBD and Gamma-Gamma) to predict Customer Lifetime Value (CLTV). The framework provides actionable insights for customer segmentation, retention strategies, and marketing resource allocation through comprehensive analysis and visualization tools.
 
 <!--  
 - [**Project Name 2**](https://github.com/fecetinn/project-2): Short description about the project.
